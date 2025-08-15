@@ -103,4 +103,4 @@ theme: reimu
 deploy: 
   type: git
   repo: https://github.com/pkpoonJL/pkpoonJL.github.io.git
-  branch: main
+  branch: master
