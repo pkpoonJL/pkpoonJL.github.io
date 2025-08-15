@@ -100,7 +100,7 @@ theme: reimu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy: 
-  type: git
-  repo: https://github.com/pkpoonJL/pkpoonJL.github.io.git
-  branch: master
+# deploy: 
+# type: git
+# repo: https://github.com/pkpoonJL/pkpoonJL.github.io.git
+# branch: master
